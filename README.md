@@ -60,6 +60,6 @@ full code deployments)
 5. Add more error-handling
 6. Add more checks to input to ensure format compliance
 
-###Time Constraint Changes
+### Time Constraint Changes
 1. Lack of 80% code coverage
 2. Lack of functional UI
